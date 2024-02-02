@@ -4,7 +4,7 @@
   "main": "node_modules/expo/AppEntry.js",
   "scripts": {
     "start": "npx expo start",
-    "android": "npm run android",
+    "android": "npx react-native run-android",
     "ios": "expo start --ios",
     "web": "expo start --web"
   },
